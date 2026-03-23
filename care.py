@@ -5,7 +5,6 @@ import time
 
 mp_pose = mp.solutions.pose
 cap = cv2.VideoCapture(0)
-
 #  Performance Boost
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
