@@ -88,7 +88,11 @@ These metrics can later be extended into:
 
 - Functional Recovery Score  
 - Stability Index  
-- Fall Risk Level  
+- Fall Risk Level
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6a18d6ca-e331-4684-aced-10ed28d9c818" />
+
+
 
 ---
 
